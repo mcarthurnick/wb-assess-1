@@ -1,0 +1,69 @@
+.header {
+    width: 100%;
+    height: 100px;
+    background: #db7878;
+    padding: 20px 0px 0px 30px;
+}
+
+.header-container {
+    width: 100%;
+}
+
+.nav-link {
+    display: inline-block;
+    padding: 50px;
+}
+
+.nav-link :hover{
+    cursor: pointer;
+}
+
+#welcome {
+    display: inline-block;
+    font-size:xx-large;
+}
+
+.content-top {
+    border: 5px black dotted;
+    margin: 10px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.content-bottom {
+    border: 5px black dotted;
+    margin: 10px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+  
+#img-left {
+    float: left;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+#img-right {
+    float: right;
+}
+
+
+.content-header {
+    width: 100%;
+    font-size: x-large;
+    padding: 24px;
+    font-weight: bold;
+}
+
+.content-top p {
+    letter-spacing: .7px;
+}
+
+.content-bottom p {
+    padding-left: 20px;
+    letter-spacing: .7px;
+}
